@@ -10,8 +10,23 @@
         <mxCell id="qrsH0UAfbQxeg1TdlcR2-2" value="Orion-LD&lt;div&gt;Context&lt;/div&gt;&lt;div&gt;Broker&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="370" y="460" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qrsH0UAfbQxeg1TdlcR2-3" value="JSON-LD&lt;div&gt;@context&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="qrsH0UAfbQxeg1TdlcR2-3" value="cUrl or&lt;div&gt;Postman&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="110" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qrsH0UAfbQxeg1TdlcR2-4" value="IoT Agent&lt;div&gt;JSON&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qrsH0UAfbQxeg1TdlcR2-5" value="Mintaka" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qrsH0UAfbQxeg1TdlcR2-6" value="MongoDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="660" y="460" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qrsH0UAfbQxeg1TdlcR2-7" value="TimescaleDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="290" y="600" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qrsH0UAfbQxeg1TdlcR2-8" value="Mosquitto&lt;div&gt;MQTT Broker&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="760" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
